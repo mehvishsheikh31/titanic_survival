@@ -1,5 +1,10 @@
 # 🚢 Titanic Survival Prediction – End-to-End ML Pipeline
+## 🚀 Live Demo
 
+🔗 **Try the deployed app here:**  
+👉 https://titanicsurvivalpredictions.streamlit.app/
+
+This application allows users to input passenger details and predict survival probability using a trained Scikit-learn pipeline deployed with Streamlit.
 ## 📌 Overview
 
 This project builds a **production-style machine learning pipeline** to predict passenger survival on the Titanic dataset.
